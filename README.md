@@ -15,6 +15,8 @@
 
 
 * A CRUD backend application for a pseudo ecommerce-site (including Products, Categories, Tags and Product Tags) built using models, seeds, and routing. 
+
+Video Walk through: https://drive.google.com/file/d/1l3Fs7q9jzdS8QHpvTocZE_CDtoqDqGda/view?usp=sharing
     
 ## Installation:
 ```
